@@ -1,8 +1,10 @@
-- 👋 Hi, I’m @iFirebrand
-- 👀 I’m interested in Ethereum
-- 🌱 I’m currently learning Solidity, Token Economics, business scaling tactics 
-- 💞️ I’m looking to collaborate on NFTs
-- 📫 How to reach me Twitter @iFirebrand
+- 👋 Hi, I’m Constantin
+- 👀 I’m into Ethereum
+- 🌱 I’m now a recreational software engineer. 
+- My current focus on Solidity, token economics, building and scaling businesses
+- Launched with Treum EulerBeats.com NFT
+- 💞️ I’m into NFTs. 
+- 📫 DMs open on Twitter @iFirebrand
 
 <!---
 iFirebrand/iFirebrand is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
