@@ -1,9 +1,7 @@
-- 👋 Hi, I’m Constantin
-- 👀 I’m into Ethereum
-- 🌱 I’m now a recreational software engineer. 
-- My current focus on Solidity, token economics, building and scaling businesses
-- Launched with Treum EulerBeats.com NFT
-- 💞️ I’m into NFTs. 
+- No longer coding professionally. Just to relax, learn, probe.
+- Now with ConsenSys. Treum. 
+- Recently launched EulerBeats NFT. Latest #IWANBIGDROP on SeeThisNft.com
+- I’m into NFTs and metaverse.
 - 📫 DMs open on Twitter @iFirebrand
 
 <!---
