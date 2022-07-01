@@ -1,6 +1,6 @@
-- No longer coding professionally. Just to relax, learn, probe.
-- Now with ConsenSys. Treum. 
-- Recently launched EulerBeats NFT. Latest #IWANBIGDROP on SeeThisNft.com
+- No longer coding professionally. I'm a recreational dev.
+- Now with ConsenSys. 
+- Co-launched EulerBeats NFT. 
 - I’m into NFTs and metaverse.
 - 📫 DMs open on Twitter @iFirebrand
 
