@@ -1,8 +1,7 @@
 - No longer coding professionally. I'm a recreational dev.
-- Now with ConsenSys. 
+- Now with ConsenSys focusing on NFTs.
 - Co-launched EulerBeats NFT. 
-- I’m into NFTs and metaverse.
-- 📫 DMs open on Twitter @iFirebrand
+- 📫 DMs on Twitter @iFirebrand
 
 <!---
 iFirebrand/iFirebrand is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
