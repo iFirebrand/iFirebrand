@@ -1,4 +1,4 @@
-- No longer coding professionally. I'm a recreational dev.
+- No longer coding professionally. Recreational dev.
 - Now with ConsenSys focusing on NFTs.
 - Co-launched EulerBeats NFT. 
 - 📫 DMs on Twitter @iFirebrand
