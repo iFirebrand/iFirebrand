@@ -1,4 +1,4 @@
-- Recreational code. Professional bugs.
+- Recreational code.  
 - Focused on NFTs as vessels for capturing human emotion.
 - Co-launched EulerBeats NFT. 
 
