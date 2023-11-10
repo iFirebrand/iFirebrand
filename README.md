@@ -1,7 +1,6 @@
-- No longer a professional engineer. Recreational code. Professional bugs.
-- Now with Consensys focusing on NFTs.
+- Recreational code. Professional bugs.
+- Focused on NFTs as vessels for capturing human emotion.
 - Co-launched EulerBeats NFT. 
-- 📫 DMs on Twitter @iFirebrand
 
 <!---
 iFirebrand/iFirebrand is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
